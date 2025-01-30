@@ -1,3 +1,7 @@
 git init => initializes the git repository
 
 git status => lists all the untracked files
+
+git add -A => adds the untracked files to staging area
+
+git commit -m"commit message" ==> adds the files from sa to local repository
