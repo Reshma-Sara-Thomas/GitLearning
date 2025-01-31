@@ -9,3 +9,7 @@ git commit -m"commit message" ==> adds the files from sa to local repository
 git config --global user.name "name"
 
 git config --global user.email "email"
+
+git remote add remote_name remote_path
+
+git push remote_name branch_name
